@@ -1,0 +1,309 @@
+[
+  {
+    "image": "https://example.com/app1.jpg",
+    "title": "ChatEase AI",
+    "companyName": "OpenVerse Labs",
+    "id": 1,
+    "description": "ChatEase AI is your personal productivity companion designed for quick, creative, and natural conversations. Whether you’re drafting emails, summarizing notes, or brainstorming ideas, it adapts to your tone and style instantly. The app supports multiple languages, smart templates, and context-aware replies. You can use it offline or connect to cloud mode for team sharing. With ChatEase, writing becomes faster, smarter, and more fun every day.",
+    "size": 58,
+    "reviews": 12450,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 860 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 8420 }
+    ]
+  },
+  {
+    "image": "https://example.com/app2.jpg",
+    "title": "SnapMix",
+    "companyName": "CreativePixel",
+    "id": 2,
+    "description": "SnapMix lets you transform your photos and videos into stunning visual art in seconds. With AI filters, automatic object detection, and background removal, editing feels effortless. The app supports reels, collages, and 4K video exports. You can add trendy music, custom stickers, or create slideshows easily. SnapMix also includes social sharing tools, making it perfect for influencers and content creators who love visual storytelling.",
+    "size": 112,
+    "reviews": 8640,
+    "ratingAvg": 4.6,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 740 },
+      { "name": "4 star", "count": 1920 },
+      { "name": "5 star", "count": 5400 }
+    ]
+  },
+  {
+    "image": "https://example.com/app3.jpg",
+    "title": "TaskBuddy",
+    "companyName": "FlowSync",
+    "id": 3,
+    "description": "TaskBuddy keeps your day organized with clean task management and team collaboration features. It allows you to create task boards, assign priorities, and track deadlines effortlessly. Integration with Google Calendar and Slack makes team communication seamless. The smart dashboard provides insights on productivity trends. Whether you’re managing work, study, or personal goals, TaskBuddy ensures you never miss a deadline again.",
+    "size": 74,
+    "reviews": 4520,
+    "ratingAvg": 4.4,
+    "downloads": 540000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 490 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2320 }
+    ]
+  },
+  {
+    "image": "https://example.com/app4.jpg",
+    "title": "FitZone",
+    "companyName": "HealthCore",
+    "id": 4,
+    "description": "FitZone is an advanced fitness app that personalizes your workout and nutrition plans. It tracks steps, heart rate, sleep, and calories in real-time. The app’s AI coach provides daily fitness insights and reminders to keep you motivated. You can participate in group challenges, earn rewards, and share progress with friends. FitZone makes fitness fun, measurable, and perfectly tailored to your lifestyle.",
+    "size": 96,
+    "reviews": 6820,
+    "ratingAvg": 4.7,
+    "downloads": 710000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 4120 }
+    ]
+  },
+  {
+    "image": "https://example.com/app5.jpg",
+    "title": "NoteNest",
+    "companyName": "CloudSync Ltd.",
+    "id": 5,
+    "description": "NoteNest makes taking and organizing notes effortless and beautiful. It supports markdown, drawing, and voice-to-text for quick capturing. Your notes sync instantly across all devices with secure encryption. You can tag, search, and group notes by project or topic. With offline mode and minimalist design, NoteNest helps you focus purely on your ideas without distractions.",
+    "size": 44,
+    "reviews": 3210,
+    "ratingAvg": 4.5,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 960 },
+      { "name": "5 star", "count": 1690 }
+    ]
+  },
+  {
+    "image": "https://example.com/app6.jpg",
+    "title": "EduMate",
+    "companyName": "SmartLearn",
+    "id": 6,
+    "description": "EduMate is a complete learning assistant that connects students to AI tutors and live classrooms. It offers video lessons, quizzes, and real-time feedback to make studying interactive. The built-in planner helps track assignments and exams efficiently. Teachers can create courses, assign homework, and track progress easily. EduMate brings personalized education to your fingertips, making learning flexible and engaging for everyone.",
+    "size": 128,
+    "reviews": 5740,
+    "ratingAvg": 4.6,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1380 },
+      { "name": "5 star", "count": 3610 }
+    ]
+  },
+  {
+    "image": "https://example.com/app7.jpg",
+    "title": "Budgetify",
+    "companyName": "FinTrack Systems",
+    "id": 7,
+    "description": "Budgetify simplifies personal finance by helping you track expenses and savings effortlessly. It automatically categorizes transactions and generates easy-to-understand charts. The app lets you set financial goals, monthly budgets, and alerts to stay on track. You can connect your bank accounts securely and monitor all spending in one dashboard. Budgetify helps you build healthy money habits and reach your financial dreams faster.",
+    "size": 67,
+    "reviews": 3890,
+    "ratingAvg": 4.5,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 920 },
+      { "name": "5 star", "count": 2310 }
+    ]
+  },
+  {
+    "image": "https://example.com/app8.jpg",
+    "title": "SoundSphere",
+    "companyName": "AudioNova",
+    "id": 8,
+    "description": "SoundSphere offers an immersive music experience with high-quality streaming and AI-based sound enhancement. It personalizes playlists based on your mood and listening habits. The app supports offline downloads and lossless audio quality. With a sleek interface and curated recommendations, you’ll always discover new music you love. SoundSphere is your escape into pure, uninterrupted sound.",
+    "size": 95,
+    "reviews": 7210,
+    "ratingAvg": 4.7,
+    "downloads": 940000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 4550 }
+    ]
+  },
+  {
+    "image": "https://example.com/app9.jpg",
+    "title": "Travelio",
+    "companyName": "WanderWorld",
+    "id": 9,
+    "description": "Travelio is your all-in-one travel planning and booking app. Discover destinations, compare hotels, and find the best flight deals with real-time updates. You can create custom itineraries, store travel documents, and access offline maps. The app also includes AI trip suggestions and local guides. Travelio ensures every trip feels easy, exciting, and perfectly organized from start to finish.",
+    "size": 102,
+    "reviews": 6120,
+    "ratingAvg": 4.6,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 430 },
+      { "name": "4 star", "count": 1520 },
+      { "name": "5 star", "count": 3780 }
+    ]
+  },
+  {
+    "image": "https://example.com/app10.jpg",
+    "title": "MindEase",
+    "companyName": "WellBeing Studio",
+    "id": 10,
+    "description": "MindEase helps you relax, focus, and sleep better with guided meditations and ambient sounds. Its AI coach creates personalized mindfulness sessions for your goals. The app tracks your mood patterns and stress levels over time. You can set daily reminders for breathing exercises and relaxation breaks. MindEase promotes mental clarity and emotional balance through gentle daily practice.",
+    "size": 79,
+    "reviews": 4890,
+    "ratingAvg": 4.8,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://example.com/app11.jpg",
+    "title": "GameHaven",
+    "companyName": "NextPlay",
+    "id": 11,
+    "description": "GameHaven gathers thousands of mobile games in one app with reviews, updates, and personalized suggestions. You can explore trending titles, join live tournaments, and connect with gamers worldwide. Its reward system gives coins for playing and sharing achievements. GameHaven is perfect for casual and hardcore gamers looking to discover and track new games with ease.",
+    "size": 110,
+    "reviews": 9400,
+    "ratingAvg": 4.7,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 6030 }
+    ]
+  },
+  {
+    "image": "https://example.com/app12.jpg",
+    "title": "CookCraft",
+    "companyName": "KitchenLabs",
+    "id": 12,
+    "description": "CookCraft brings world-class recipes and cooking tutorials right to your kitchen. With step-by-step video guides, shopping lists, and voice instructions, cooking becomes simple and enjoyable. The app tailors recipes to your diet preferences and available ingredients. You can upload your own recipes and share them with the community. CookCraft turns everyday meals into culinary adventures.",
+    "size": 89,
+    "reviews": 5380,
+    "ratingAvg": 4.6,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 1480 },
+      { "name": "5 star", "count": 3290 }
+    ]
+  },
+  {
+    "image": "https://example.com/app13.jpg",
+    "title": "LangHero",
+    "companyName": "LinguaWorks",
+    "id": 13,
+    "description": "LangHero helps you master new languages through interactive stories, games, and AI voice practice. It adapts lessons to your learning pace and pronunciation accuracy. The app includes offline lessons and quick quizzes for daily engagement. You can compete on global leaderboards or chat with native speakers. LangHero turns language learning into a fun and rewarding experience.",
+    "size": 105,
+    "reviews": 7120,
+    "ratingAvg": 4.7,
+    "downloads": 760000,
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 390 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 4750 }
+    ]
+  },
+  {
+    "image": "https://example.com/app14.jpg",
+    "title": "SafeVault",
+    "companyName": "CyberShield",
+    "id": 14,
+    "description": "SafeVault secures your passwords, documents, and personal data with military-grade encryption. It generates strong passwords, auto-fills forms, and syncs securely across your devices. The app includes biometric login, emergency access, and dark web monitoring. With SafeVault, you can store your sensitive information safely without remembering dozens of passwords ever again.",
+    "size": 61,
+    "reviews": 3980,
+    "ratingAvg": 4.8,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 980 },
+      { "name": "5 star", "count": 2650 }
+    ]
+  },
+  {
+    "image": "https://example.com/app15.jpg",
+    "title": "ShopifyGo",
+    "companyName": "Commercia",
+    "id": 15,
+    "description": "ShopifyGo is a smart shopping app that lets users compare prices, discover deals, and track deliveries all in one place. You can scan barcodes, save wishlists, and get instant alerts for discounts. The AI shopping assistant finds the best-rated alternatives for any product. With one-tap checkout and secure payment, ShopifyGo redefines your online shopping experience.",
+    "size": 118,
+    "reviews": 9320,
+    "ratingAvg": 4.5,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://example.com/app16.jpg",
+    "title": "Weatherly",
+    "companyName": "SkyCore Tech",
+    "id": 16,
+    "description": "Weatherly provides real-time weather updates, radar maps, and climate forecasts with stunning visuals. It uses AI to predict hyper-local changes and warn about severe conditions early. You can personalize widgets and set travel alerts for multiple cities. The app also features an air quality index and sunrise/sunset tracker. Weatherly keeps you prepared for whatever nature brings.",
+    "size": 63,
+    "reviews": 5880,
+    "ratingAvg": 4.6,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://example.com/app17.jpg",
+    "title": "StoryTeller",
+    "companyName": "DreamForge",
+    "id": 17,
+    "description": "StoryTeller lets you create, publish, and share interactive stories, comics, and short films. Use its drag-and-drop editor, AI scene builder, and sound effects to bring your imagination to life. You can read thousands of stories made by creators around the world. StoryTeller supports collaboration and live narration for creative teams. Build worlds, tell tales, and inspire others through storytelling.",
+    "size": 137,
+    "reviews": 4820,
+    "ratingAvg": 4.7,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  }
+]
+ 

@@ -7,12 +7,18 @@ const AllAppsPage = () => {
     const { loading, apps } = useApps();
     const [search, setSearch] = useState('');
 
+    console.log(apps);
+
     const term = search.trim().toLowerCase();
 
+    console.log(term);
+
     const searchedApps = term?
-    apps.filter(product => product.name.trim().toLowerCase().includes(term))
+    apps.filter(app => app.title.toLowerCase().includes(term))
     :
-    apps
+    apps || []
+
+    
     return (
         <div>
             <div className='flex justify-between py-5 items-center'>

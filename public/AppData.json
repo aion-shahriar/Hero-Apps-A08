@@ -1,21 +1,11 @@
 
-
-
-
-
-
-
-
-
-
-
 [
   {
     "image": "../src/assets/demo-app (1).webp",
     "title": "ChatEase AI",
     "companyName": "OpenVerse Labs",
     "id": 1,
-    "description": "ChatEase AI is your personal productivity companion designed for quick, creative, and natural conversations. Whether you’re drafting emails, summarizing notes, or brainstorming ideas, it adapts to your tone and style instantly. The app supports multiple languages, smart templates, and context-aware replies. You can use it offline or connect to cloud mode for team sharing. With ChatEase, writing becomes faster, smarter, and more fun every day.",
+    "description": "ChatEase AI is built to streamline your daily writing and communication tasks with intelligence and ease. It understands context, tone, and intent to generate responses that feel natural and human-like. Whether you are working on professional documents or casual conversations, ChatEase adapts seamlessly. The interface is clean and distraction-free, helping users focus on creativity. Multilingual support ensures accessibility for users across the globe.\n\nThe app excels in productivity with features like smart templates, quick summaries, and idea expansion tools. Users can brainstorm content, refine drafts, or convert rough notes into polished text instantly. Offline mode allows uninterrupted usage, while cloud mode enables syncing and team collaboration. This makes ChatEase ideal for both individual users and professional teams. Every interaction is optimized for speed and clarity.\n\nSecurity and customization are at the heart of ChatEase AI. Users can personalize tone preferences and writing styles to match their unique voice. Data privacy is maintained with secure storage and optional cloud controls. Regular updates improve AI accuracy and usability over time. ChatEase transforms everyday writing into a smooth, efficient, and enjoyable experience.",
     "size": 58,
     "reviews": 12450,
     "ratingAvg": 4.8,
@@ -33,7 +23,7 @@
     "title": "SnapMix",
     "companyName": "CreativePixel",
     "id": 2,
-    "description": "SnapMix lets you transform your photos and videos into stunning visual art in seconds. With AI filters, automatic object detection, and background removal, editing feels effortless. The app supports reels, collages, and 4K video exports. You can add trendy music, custom stickers, or create slideshows easily. SnapMix also includes social sharing tools, making it perfect for influencers and content creators who love visual storytelling.",
+    "description": "SnapMix is a powerful creative app designed for users who love visual storytelling. It transforms ordinary photos and videos into eye-catching content using advanced AI tools. From filters to background removal, every feature is optimized for simplicity and speed. The app supports both casual creators and professional influencers. Its intuitive layout ensures anyone can start editing instantly.\n\nWith SnapMix, editing goes beyond basic adjustments. AI-powered object detection allows precise edits without manual effort. Users can create reels, collages, and slideshows with smooth transitions and effects. High-quality 4K exports ensure content looks stunning on any platform. Built-in music and sticker libraries keep creations trendy and engaging.\n\nSharing is seamless with SnapMix’s integrated social tools. Users can publish content directly or save optimized versions for different platforms. Cloud saving ensures projects are never lost. Frequent updates introduce new filters and creative assets. SnapMix empowers users to express creativity without technical barriers.",
     "size": 112,
     "reviews": 8640,
     "ratingAvg": 4.6,
@@ -51,7 +41,7 @@
     "title": "TaskBuddy",
     "companyName": "FlowSync",
     "id": 3,
-    "description": "TaskBuddy keeps your day organized with clean task management and team collaboration features. It allows you to create task boards, assign priorities, and track deadlines effortlessly. Integration with Google Calendar and Slack makes team communication seamless. The smart dashboard provides insights on productivity trends. Whether you’re managing work, study, or personal goals, TaskBuddy ensures you never miss a deadline again.",
+    "description": "TaskBuddy is designed to bring structure and clarity to busy schedules through intuitive task management. It allows users to organize tasks into boards, set priorities, and manage deadlines efficiently. The clean interface keeps distractions away and improves focus. TaskBuddy works equally well for individuals and teams. It adapts easily to work, study, or personal planning needs.\n\nCollaboration is seamless with shared boards and real-time updates. Users can assign tasks, track progress, and communicate within the same workspace. Integration with Google Calendar and Slack ensures smooth workflow synchronization. Smart reminders prevent missed deadlines. Productivity insights help teams stay aligned and efficient.\n\nTaskBuddy emphasizes long-term productivity and consistency. Visual dashboards highlight performance trends and task completion rates. Cloud syncing allows access across all devices. The app remains lightweight yet powerful. TaskBuddy helps users stay organized, motivated, and in control every day.",
     "size": 74,
     "reviews": 4520,
     "ratingAvg": 4.4,
@@ -69,7 +59,7 @@
     "title": "FitZone",
     "companyName": "HealthCore",
     "id": 4,
-    "description": "FitZone is an advanced fitness app that personalizes your workout and nutrition plans. It tracks steps, heart rate, sleep, and calories in real-time. The app’s AI coach provides daily fitness insights and reminders to keep you motivated. You can participate in group challenges, earn rewards, and share progress with friends. FitZone makes fitness fun, measurable, and perfectly tailored to your lifestyle.",
+    "description": "FitZone is a comprehensive fitness companion built to support healthier lifestyles. It tracks steps, heart rate, sleep, and calorie burn in real time. The interface presents data in a clear and motivating way. Users can monitor daily activity and long-term progress easily. FitZone suits beginners and fitness enthusiasts alike.\n\nThe AI-powered coach provides personalized workout routines and nutrition guidance. Daily insights help users understand their physical condition better. Smart reminders encourage consistency without pressure. Group challenges and rewards add motivation. Fitness goals feel achievable and engaging.\n\nFitZone focuses on personalization and habit building. Users can tailor plans based on fitness level and lifestyle. Secure cloud syncing keeps progress data accessible. Regular updates improve accuracy and features. FitZone turns fitness into a sustainable daily routine.",
     "size": 96,
     "reviews": 6820,
     "ratingAvg": 4.7,
@@ -87,7 +77,7 @@
     "title": "NoteNest",
     "companyName": "CloudSync Ltd.",
     "id": 5,
-    "description": "NoteNest makes taking and organizing notes effortless and beautiful. It supports markdown, drawing, and voice-to-text for quick capturing. Your notes sync instantly across all devices with secure encryption. You can tag, search, and group notes by project or topic. With offline mode and minimalist design, NoteNest helps you focus purely on your ideas without distractions.",
+    "description": "NoteNest is built for users who value simplicity, focus, and organization. It allows quick note capturing through text, drawings, and voice input. The minimalist interface removes distractions and boosts productivity. Notes remain clean and visually appealing. NoteNest fits naturally into daily workflows.\n\nAdvanced organization tools like tags, folders, and search make retrieval effortless. Markdown support enhances structured writing. Notes sync instantly across devices with strong encryption. Offline mode ensures uninterrupted work anytime. Everything stays neatly organized.\n\nSecurity and accessibility are core strengths of NoteNest. Data privacy is maintained with end-to-end encryption. The app remains fast and lightweight. Regular enhancements improve usability. NoteNest helps users focus on ideas rather than tools.",
     "size": 44,
     "reviews": 3210,
     "ratingAvg": 4.5,
@@ -105,7 +95,7 @@
     "title": "EduMate",
     "companyName": "SmartLearn",
     "id": 6,
-    "description": "EduMate is a complete learning assistant that connects students to AI tutors and live classrooms. It offers video lessons, quizzes, and real-time feedback to make studying interactive. The built-in planner helps track assignments and exams efficiently. Teachers can create courses, assign homework, and track progress easily. EduMate brings personalized education to your fingertips, making learning flexible and engaging for everyone.",
+    "description": "EduMate is a modern learning platform that blends AI assistance with real educational interaction. It connects students to AI tutors, live classes, and interactive lessons. Video content, quizzes, and instant feedback make studying engaging. The interface is student-friendly and intuitive. Learning becomes flexible and accessible.\n\nStudents can track assignments, exams, and progress using the built-in planner. Personalized learning paths adapt to individual strengths and weaknesses. Teachers can manage courses, assign homework, and monitor performance easily. Real-time interaction improves understanding. Collaboration stays seamless.\n\nEduMate focuses on personalized and scalable education. Cloud access allows learning from anywhere. Performance analytics support academic improvement. Secure data handling protects user information. EduMate transforms traditional education into a smart digital experience.",
     "size": 128,
     "reviews": 5740,
     "ratingAvg": 4.6,
@@ -123,7 +113,7 @@
     "title": "Budgetify",
     "companyName": "FinTrack Systems",
     "id": 7,
-    "description": "Budgetify simplifies personal finance by helping you track expenses and savings effortlessly. It automatically categorizes transactions and generates easy-to-understand charts. The app lets you set financial goals, monthly budgets, and alerts to stay on track. You can connect your bank accounts securely and monitor all spending in one dashboard. Budgetify helps you build healthy money habits and reach your financial dreams faster.",
+    "description": "Budgetify is designed to simplify personal finance management for everyone. It helps users track expenses, income, and savings effortlessly. Transactions are categorized automatically for better clarity. Visual charts make financial data easy to understand. Budgetify builds financial awareness.\n\nUsers can set monthly budgets and long-term goals with ease. Smart alerts notify overspending and upcoming bills. Secure bank integrations bring all finances into one dashboard. Planning becomes stress-free and organized. Financial control improves steadily.\n\nBudgetify emphasizes security and simplicity. Data is protected with strong encryption. Custom reports help users analyze spending habits. The app stays lightweight and reliable. Budgetify empowers users to build healthy money habits confidently.",
     "size": 67,
     "reviews": 3890,
     "ratingAvg": 4.5,
@@ -141,7 +131,7 @@
     "title": "SoundSphere",
     "companyName": "AudioNova",
     "id": 8,
-    "description": "SoundSphere offers an immersive music experience with high-quality streaming and AI-based sound enhancement. It personalizes playlists based on your mood and listening habits. The app supports offline downloads and lossless audio quality. With a sleek interface and curated recommendations, you’ll always discover new music you love. SoundSphere is your escape into pure, uninterrupted sound.",
+    "description": "SoundSphere delivers a premium music streaming experience with immersive sound quality. It personalizes playlists based on listening habits and mood. The interface is sleek, modern, and easy to navigate. Music discovery feels effortless. SoundSphere enhances every listening session.\n\nAI-powered recommendations introduce new artists and genres. Offline downloads ensure uninterrupted playback anywhere. Lossless audio support provides studio-quality sound. Smart playlists evolve over time. Listening becomes deeply personal.\n\nSoundSphere focuses on uninterrupted enjoyment. Cloud syncing keeps playlists consistent across devices. Regular updates improve performance and features. The app balances elegance with power. SoundSphere turns music into an immersive escape.",
     "size": 95,
     "reviews": 7210,
     "ratingAvg": 4.7,
@@ -159,7 +149,7 @@
     "title": "Travelio",
     "companyName": "WanderWorld",
     "id": 9,
-    "description": "Travelio is your all-in-one travel planning and booking app. Discover destinations, compare hotels, and find the best flight deals with real-time updates. You can create custom itineraries, store travel documents, and access offline maps. The app also includes AI trip suggestions and local guides. Travelio ensures every trip feels easy, exciting, and perfectly organized from start to finish.",
+    "description": "Travelio is an all-in-one travel planning companion for modern explorers. It helps users discover destinations, compare hotels, and book flights easily. Real-time updates ensure accurate pricing and availability. The interface is intuitive and travel-friendly. Planning becomes enjoyable.\n\nUsers can create custom itineraries and store travel documents securely. Offline maps and guides provide access without internet. AI suggestions personalize trips based on preferences. Local insights enhance experiences. Everything stays organized.\n\nTravelio prioritizes convenience and reliability. Multi-device sync ensures plans are always accessible. Smart alerts keep travelers informed. The app reduces travel stress significantly. Travelio makes every journey smarter and smoother.",
     "size": 102,
     "reviews": 6120,
     "ratingAvg": 4.6,
@@ -177,7 +167,7 @@
     "title": "MindEase",
     "companyName": "WellBeing Studio",
     "id": 10,
-    "description": "MindEase helps you relax, focus, and sleep better with guided meditations and ambient sounds. Its AI coach creates personalized mindfulness sessions for your goals. The app tracks your mood patterns and stress levels over time. You can set daily reminders for breathing exercises and relaxation breaks. MindEase promotes mental clarity and emotional balance through gentle daily practice.",
+    "description": "MindEase is designed to support relaxation, focus, and better sleep. It offers guided meditations, breathing exercises, and ambient sounds. The calming interface enhances mindfulness practice. Sessions fit easily into daily routines. Mental wellness becomes approachable.\n\nThe AI coach personalizes sessions based on mood and goals. Mood tracking helps identify emotional patterns. Gentle reminders encourage daily practice. Exercises range from quick breaks to deep relaxation. Users stay engaged without pressure.\n\nMindEase values privacy and comfort. Data remains secure and personal. Offline access allows uninterrupted sessions. Regular updates improve content quality. MindEase promotes long-term emotional balance and clarity.",
     "size": 79,
     "reviews": 4890,
     "ratingAvg": 4.8,
@@ -192,130 +182,128 @@
   },
   {
     "image": "../src/assets/demo-app (2).webp",
-    "title": "GameHaven",
-    "companyName": "NextPlay",
+    "title": "CodeCraft",
+    "companyName": "DevForge",
     "id": 11,
-    "description": "GameHaven gathers thousands of mobile games in one app with reviews, updates, and personalized suggestions. You can explore trending titles, join live tournaments, and connect with gamers worldwide. Its reward system gives coins for playing and sharing achievements. GameHaven is perfect for casual and hardcore gamers looking to discover and track new games with ease.",
-    "size": 110,
-    "reviews": 9400,
+    "description": "CodeCraft is a developer-focused learning and productivity platform designed to improve coding skills efficiently. It provides interactive coding challenges, real-world projects, and AI-powered hints. The interface is clean and distraction-free, allowing developers to focus deeply on problem-solving. Beginners and experienced developers both benefit from its structured learning paths. The platform supports multiple programming languages.\n\nCodeCraft offers instant code feedback and performance analysis. Users can practice algorithms, system design, and debugging scenarios. Integrated version control simulations help learners understand professional workflows. Progress tracking ensures consistent improvement. Coding becomes practical and engaging.\n\nThe platform emphasizes hands-on learning and growth. Cloud syncing allows progress across devices. Regular challenges keep skills sharp. Secure data handling protects user work. CodeCraft turns learning to code into a confident, career-ready experience.",
+    "size": 88,
+    "reviews": 5120,
     "ratingAvg": 4.7,
-    "downloads": "1.6M",
+    "downloads": "610K",
     "ratings": [
-      { "name": "1 star", "count": 240 },
-      { "name": "2 star", "count": 310 },
-      { "name": "3 star", "count": 720 },
-      { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 6030 }
-    ]
-  },
-  {
-    "image": "../src/assets/demo-app (4).webp",
-    "title": "CookCraft",
-    "companyName": "KitchenLabs",
-    "id": 12,
-    "description": "CookCraft brings world-class recipes and cooking tutorials right to your kitchen. With step-by-step video guides, shopping lists, and voice instructions, cooking becomes simple and enjoyable. The app tailors recipes to your diet preferences and available ingredients. You can upload your own recipes and share them with the community. CookCraft turns everyday meals into culinary adventures.",
-    "size": 89,
-    "reviews": 5380,
-    "ratingAvg": 4.6,
-    "downloads": "480K",
-    "ratings": [
-      { "name": "1 star", "count": 130 },
-      { "name": "2 star", "count": 160 },
-      { "name": "3 star", "count": 320 },
-      { "name": "4 star", "count": 1480 },
-      { "name": "5 star", "count": 3290 }
-    ]
-  },
-  {
-    "image": "../src/assets/demo-app (4).webp",
-    "title": "LangHero",
-    "companyName": "LinguaWorks",
-    "id": 13,
-    "description": "LangHero helps you master new languages through interactive stories, games, and AI voice practice. It adapts lessons to your learning pace and pronunciation accuracy. The app includes offline lessons and quick quizzes for daily engagement. You can compete on global leaderboards or chat with native speakers. LangHero turns language learning into a fun and rewarding experience.",
-    "size": 105,
-    "reviews": 7120,
-    "ratingAvg": 4.7,
-    "downloads": "760K",
-    "ratings": [
-      { "name": "1 star", "count": 170 },
-      { "name": "2 star", "count": 210 },
-      { "name": "3 star", "count": 390 },
-      { "name": "4 star", "count": 1600 },
-      { "name": "5 star", "count": 4750 }
-    ]
-  },
-  {
-    "image": "../src/assets/demo-app (2).webp",
-    "title": "SafeVault",
-    "companyName": "CyberShield",
-    "id": 14,
-    "description": "SafeVault secures your passwords, documents, and personal data with military-grade encryption. It generates strong passwords, auto-fills forms, and syncs securely across your devices. The app includes biometric login, emergency access, and dark web monitoring. With SafeVault, you can store your sensitive information safely without remembering dozens of passwords ever again.",
-    "size": 61,
-    "reviews": 3980,
-    "ratingAvg": 4.8,
-    "downloads": "390K",
-    "ratings": [
-      { "name": "1 star", "count": 70 },
-      { "name": "2 star", "count": 90 },
-      { "name": "3 star", "count": 190 },
-      { "name": "4 star", "count": 980 },
-      { "name": "5 star", "count": 2650 }
-    ]
-  },
-  {
-    "image": "../src/assets/demo-app (1).webp",
-    "title": "ShopifyGo",
-    "companyName": "Commercia",
-    "id": 15,
-    "description": "ShopifyGo is a smart shopping app that lets users compare prices, discover deals, and track deliveries all in one place. You can scan barcodes, save wishlists, and get instant alerts for discounts. The AI shopping assistant finds the best-rated alternatives for any product. With one-tap checkout and secure payment, ShopifyGo redefines your online shopping experience.",
-    "size": 118,
-    "reviews": 9320,
-    "ratingAvg": 4.5,
-    "downloads": "1.5M",
-    "ratings": [
-      { "name": "1 star", "count": 310 },
-      { "name": "2 star", "count": 410 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 5700 }
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 1320 },
+      { "name": "5 star", "count": 3110 }
     ]
   },
   {
     "image": "../src/assets/demo-app (3).webp",
-    "title": "Weatherly",
-    "companyName": "SkyCore Tech",
-    "id": 16,
-    "description": "Weatherly provides real-time weather updates, radar maps, and climate forecasts with stunning visuals. It uses AI to predict hyper-local changes and warn about severe conditions early. You can personalize widgets and set travel alerts for multiple cities. The app also features an air quality index and sunrise/sunset tracker. Weatherly keeps you prepared for whatever nature brings.",
-    "size": 63,
-    "reviews": 5880,
+    "title": "ShopSmart",
+    "companyName": "RetailNext",
+    "id": 12,
+    "description": "ShopSmart is a modern shopping assistant that enhances online purchasing decisions. It compares prices, tracks discounts, and suggests best deals in real time. The interface is simple and user-friendly. Shoppers save both time and money effortlessly. Smart recommendations improve buying confidence.\n\nUsers can create wishlists and receive price-drop alerts instantly. AI analyzes spending patterns to suggest budget-friendly options. Secure payment integrations ensure safe transactions. Order tracking keeps everything organized. Shopping becomes smooth and stress-free.\n\nShopSmart prioritizes convenience and trust. Data privacy is strictly maintained. Personalized deals improve over time. Regular updates add new partner stores. ShopSmart transforms everyday shopping into a smarter experience.",
+    "size": 92,
+    "reviews": 6430,
     "ratingAvg": 4.6,
-    "downloads": "950K",
+    "downloads": "780K",
     "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 140 },
-      { "name": "3 star", "count": 320 },
-      { "name": "4 star", "count": 1300 },
-      { "name": "5 star", "count": 4000 }
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 460 },
+      { "name": "4 star", "count": 1680 },
+      { "name": "5 star", "count": 3900 }
     ]
   },
   {
     "image": "../src/assets/demo-app (4).webp",
-    "title": "StoryTeller",
-    "companyName": "DreamForge",
-    "id": 17,
-    "description": "StoryTeller lets you create, publish, and share interactive stories, comics, and short films. Use its drag-and-drop editor, AI scene builder, and sound effects to bring your imagination to life. You can read thousands of stories made by creators around the world. StoryTeller supports collaboration and live narration for creative teams. Build worlds, tell tales, and inspire others through storytelling.",
-    "size": 137,
-    "reviews": 4820,
-    "ratingAvg": 4.7,
-    "downloads": "410K",
+    "title": "LangLoop",
+    "companyName": "LingoTech",
+    "id": 13,
+    "description": "LangLoop is a language learning app focused on real-life communication skills. It combines AI tutors, pronunciation practice, and interactive lessons. The interface is engaging and beginner-friendly. Learning feels natural and enjoyable. Multiple languages are supported.\n\nShort daily lessons keep users consistent without pressure. Speech recognition improves pronunciation accuracy. Vocabulary and grammar are introduced contextually. Progress tracking motivates learners. Conversations become more confident.\n\nLangLoop emphasizes personalized learning. Lessons adapt to user performance. Offline access supports learning anywhere. Secure profiles protect progress. LangLoop makes mastering a new language achievable and fun.",
+    "size": 76,
+    "reviews": 4890,
+    "ratingAvg": 4.5,
+    "downloads": "560K",
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 170 },
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 330 },
+      { "name": "4 star", "count": 1240 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (1).webp",
+    "title": "HomeHub",
+    "companyName": "SmartLiving",
+    "id": 14,
+    "description": "HomeHub is a centralized control app for smart home devices. It allows users to manage lighting, security, climate, and appliances from one place. The interface is intuitive and responsive. Home automation becomes simple and reliable. Compatibility spans multiple brands.\n\nUsers can create routines and schedules for daily automation. Voice assistant integration enhances convenience. Real-time alerts ensure home security awareness. Energy usage insights help reduce costs. Smart living becomes efficient.\n\nHomeHub focuses on safety and reliability. Encrypted connections protect home data. Cloud syncing allows remote access. Regular updates improve device support. HomeHub brings comfort and control together seamlessly.",
+    "size": 104,
+    "reviews": 5310,
+    "ratingAvg": 4.6,
+    "downloads": "620K",
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 1420 },
+      { "name": "5 star", "count": 3130 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (2).webp",
+    "title": "Eventify",
+    "companyName": "EventCore",
+    "id": 15,
+    "description": "Eventify is an event discovery and management platform for modern users. It helps find concerts, conferences, and meetups easily. The interface highlights trending and nearby events. Planning social activities becomes effortless. Ticket booking is fast and secure.\n\nOrganizers can manage registrations, schedules, and attendee communication. Real-time notifications keep participants informed. Calendar integration avoids conflicts. Digital tickets reduce hassle. Events stay organized.\n\nEventify prioritizes user experience and reliability. Secure payments protect transactions. Cloud access ensures availability. Regular updates improve performance. Eventify connects people through memorable experiences.",
+    "size": 83,
+    "reviews": 4120,
+    "ratingAvg": 4.4,
+    "downloads": "470K",
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 1080 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (3).webp",
+    "title": "DriveSafe",
+    "companyName": "AutoGuard",
+    "id": 16,
+    "description": "DriveSafe is a safety-focused driving companion app. It monitors driving behavior and provides real-time feedback. Speed, braking, and phone usage are analyzed accurately. The interface is clear and non-distracting. Driving awareness improves naturally.\n\nUsers receive safety scores and driving insights after each trip. Emergency alerts can notify contacts automatically. GPS tracking assists navigation and route history. Driving habits improve over time. Safety becomes measurable.\n\nDriveSafe emphasizes responsibility and security. Data is stored securely. Cloud reports track long-term progress. Regular updates enhance accuracy. DriveSafe helps drivers stay alert, safe, and confident.",
+    "size": 69,
+    "reviews": 3580,
+    "ratingAvg": 4.5,
+    "downloads": "420K",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 140 },
       { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 1100 },
-      { "name": "5 star", "count": 3100 }
+      { "name": "4 star", "count": 980 },
+      { "name": "5 star", "count": 2050 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (4).webp",
+    "title": "RecipeBox",
+    "companyName": "KitchenLabs",
+    "id": 17,
+    "description": "RecipeBox is a smart cooking assistant for food enthusiasts. It stores recipes, suggests meals, and generates shopping lists automatically. The interface is clean and kitchen-friendly. Cooking becomes organized and enjoyable. Recipes are easy to follow.\n\nAI-powered recommendations adapt to dietary preferences and ingredients. Step-by-step cooking mode simplifies preparation. Nutrition information supports healthy choices. Offline access allows cooking without internet. Meal planning improves consistency.\n\nRecipeBox focuses on convenience and creativity. Cloud sync saves favorite recipes securely. Regular content updates add new dishes. The app remains lightweight and fast. RecipeBox transforms everyday cooking into a delightful experience.",
+    "size": 72,
+    "reviews": 4460,
+    "ratingAvg": 4.7,
+    "downloads": "590K",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 1240 },
+      { "name": "5 star", "count": 2740 }
     ]
   }
 ]
-
- 

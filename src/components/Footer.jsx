@@ -1,17 +1,19 @@
 import React from 'react';
 
+import logoImg from '../assets/logo.png'
+
 const Footer = () => {
     return (
-        <footer className="footer footer-horizontal footer-center bg-base-200 text-base-content rounded p-10">
-  <nav className="grid grid-flow-col gap-4">
-    <a className="link link-hover">About us</a>
-    <a className="link link-hover">Contact</a>
-    <a className="link link-hover">Jobs</a>
-    <a className="link link-hover">Press kit</a>
-  </nav>
+        <footer className="footer footer-horizontal footer-center bg-black/80 text-base-content rounded p-10">
+  
   <nav>
-    <div className="grid grid-flow-col gap-4">
-      <a>
+    <div className="flex justify-around items-center gap-32 text-white">
+      <div className='flex'>
+                          <img src={logoImg} alt="logo-img" className='w-10'/>
+                      <a className="btn btn-ghost text-xl">Hero.IO</a>
+                      </div>
+      <div className='flex gap-5'>
+        <a>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
@@ -44,10 +46,11 @@ const Footer = () => {
             d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"></path>
         </svg>
       </a>
+      </div>
     </div>
   </nav>
   <aside>
-    <p>Copyright © {new Date().getFullYear()} - All right reserved by HomeDecor Ltd</p>
+    <p className='text-white'>Copyright © {new Date().getFullYear()} - All right reserved by HomeDecor Ltd</p>
   </aside>
 </footer>
     );

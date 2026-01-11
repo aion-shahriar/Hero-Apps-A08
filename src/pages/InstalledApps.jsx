@@ -23,10 +23,10 @@ const InstalledApps = () => {
 
     const sortedItem = (()=> {
         if(sortOrder === 'price-asc') {
-            return [...InstalledList].sort((a,b)=> a.price  - b.price);
+            return [...InstalledList].sort((a,b)=> a.size  - b.size);
         }
         else if(sortOrder === 'price-desc') {
-            return [...InstalledList].sort((a,b) => b.price - a.price);
+            return [...InstalledList].sort((a,b) => b.size - a.size);
         }
         else {
             return InstalledList;

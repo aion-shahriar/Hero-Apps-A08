@@ -16,9 +16,9 @@ const HomePage = () => {
             <div>
                 <Banner></Banner>
             </div>
-            <div className='flex justify-between py-5 items-center'>
-                <h1 className='text-3xl font-semibold'>Trending Apps</h1>
-                <p>Explore All Trending Apps on the Market developed by us</p>
+            <div className='my-10'>
+                <h1 className='text-3xl font-semibold text-center'>Trending Apps</h1>
+                <p className='text-center mt-4'>Explore All Trending Apps on the Market developed by us</p>
                 
             </div>
             
@@ -28,7 +28,7 @@ const HomePage = () => {
             </div>
             }
             <div className='text-center my-8'>
-                <Link className='btn bg' to = '/allapps'>Show All</Link>
+                <Link className='btn bg text-white' to = '/allapps'>Show All</Link>
             </div>
         </div>
     );

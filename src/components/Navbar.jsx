@@ -36,7 +36,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end pr-15">
-                <a href="https://github.com/aion-shahriar" target='_blank' className='btn bg'><FaGithub />Contribute</a>
+                <a href="https://github.com/aion-shahriar" target='_blank' className='btn bg text-white'><FaGithub />Contribute</a>
             </div>
         </div>
     );

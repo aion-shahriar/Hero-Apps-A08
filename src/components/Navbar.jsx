@@ -4,12 +4,43 @@ import img from '../assets/logo.png'
 import { FaGithub } from 'react-icons/fa';
 
 const Navbar = () => {
-    const links = <>
-        <Link to= '/'> <li className='m-2 font-semibold'><a>Home</a></li> </Link>
-        <Link to='/allapps'> <li className='m-2 font-semibold'><a>Apps</a></li> </Link>
-        <Link to='/installed'> <li className='m-2 font-semibold'><a>Installation</a></li> </Link>
-        
-    </>
+    
+const links = (
+  <>
+    <NavLink
+      to="/"
+      className={({ isActive }) =>
+        `m-2 font-semibold ${
+          isActive ? "text-primary" : ""
+        }`
+      }
+    >
+      Home
+    </NavLink>
+
+    <NavLink
+      to="/allapps"
+      className={({ isActive }) =>
+        `m-2 font-semibold ${
+          isActive ? "text-primary" : ""
+        }`
+      }
+    >
+      Apps
+    </NavLink>
+
+    <NavLink
+      to="/installed"
+      className={({ isActive }) =>
+        `m-2 font-semibold ${
+          isActive ? "text-primary" : ""
+        }`
+      }
+    >
+      Installation
+    </NavLink>
+  </>
+);
     return (
         <div className="navbar bg-base-100 shadow-sm">
             <div className="navbar-start pl-15">

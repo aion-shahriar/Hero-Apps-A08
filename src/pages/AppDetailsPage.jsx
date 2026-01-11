@@ -6,6 +6,7 @@ import { loadInstalledList, updateList } from '../utils/localStorage';
 import ratingImg from '../assets/icon-ratings.png'
 import { FaDownload } from 'react-icons/fa';
 import likeImg from '../assets/icon-review.png'
+import { toast } from 'react-toastify';
 
 
 const AppDetailsPage = () => {
@@ -37,6 +38,7 @@ const AppDetailsPage = () => {
     const isInstalled = installedApps.some(item => item.id === app.id);
 
     const handleInstall = () => {
+        toast.success(`Installing ${title}`)
         updateList(app);
         setInstalledApps(loadInstalledList()); // sync after install
     };

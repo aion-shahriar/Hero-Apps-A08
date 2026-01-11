@@ -41,9 +41,11 @@ const InstalledApps = () => {
 
 
     const handleRemove = (id) => {
+        const app = InstalledList.find(p => p.id === id);
+        toast.success(`${app.title} uninstalled successfully.`)
         removeFromInstalledList(id);
         setInstalledlist(prev => prev.filter(p=> p.id !== id));
-        toast.success("App Uninstalled successfully!")
+        
 
     }
 

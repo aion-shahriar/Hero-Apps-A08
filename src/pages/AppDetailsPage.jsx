@@ -7,6 +7,7 @@ import ratingImg from '../assets/icon-ratings.png'
 import { FaDownload } from 'react-icons/fa';
 import likeImg from '../assets/icon-review.png'
 import { toast } from 'react-toastify';
+import RatingsChart from '../components/RatingsChart';
 
 
 const AppDetailsPage = () => {
@@ -44,7 +45,7 @@ const AppDetailsPage = () => {
     };
 
     return (
-        <div className="card bg-base-100 shadow-sm p-5">
+        <div className="card bg-base-100 shadow-sm p-20">
 
             <div className='mt-10 flex gap-14'>
                 <div className=''>
@@ -54,13 +55,13 @@ const AppDetailsPage = () => {
             </div>
 
             <div className='max-w-full'>
-                <div className='mb-3'>
+                <div className='pb-5'>
                     <h2 className='text-3xl font-semibold'>{title}</h2>
                     <p>Developed by <span className='primary'>{companyName}</span></p>
                 </div>
                 <hr />
 
-                <div className='mt-4 grid grid-cols-1 md:grid-cols-3 gap-5'>
+                <div className='mt-4 grid grid-cols-1 md:grid-cols-3 gap-10 pb-5'>
                     <div>
                         <FaDownload className='text-green-400'/>
                         <p>Downloads</p>
@@ -108,6 +109,7 @@ const AppDetailsPage = () => {
 
             <div className='ratingsGraph mt-10'>
                 <h2 className='text-2xl font-semibold'>Ratings</h2>
+                <RatingsChart app={app}></RatingsChart>
             </div>
 
             <div className='mt-10'>

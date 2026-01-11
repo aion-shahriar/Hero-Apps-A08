@@ -46,7 +46,9 @@ const AllAppsPage = () => {
             
             {loading? <SkeletonLoader count={17}></SkeletonLoader> : 
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
-                {searchedApps.length? searchedApps.map(app => <AppCard key={app.id} app={app}></AppCard>) :  <img src={appErrorImg} alt="" className=''/>}
+                {searchedApps.length? searchedApps.map(app => <AppCard key={app.id} app={app}></AppCard>) :  <div className='col-span-full flex justify-center items-center my-20'>
+        <img src={appErrorImg} alt="No apps found" />
+    </div>}
                 
                 
                     

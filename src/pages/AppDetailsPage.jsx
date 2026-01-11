@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router';
 import useApps from '../hooks/useApps';
-import { updateList } from '../utils/localStorage';
+import { loadInstalledList, updateList } from '../utils/localStorage';
 
 import ratingImg from '../assets/icon-ratings.png'
 import { FaDownload } from 'react-icons/fa';
@@ -9,6 +9,16 @@ import likeImg from '../assets/icon-review.png'
 
 
 const AppDetailsPage = () => {
+
+   
+
+
+
+    const [installedApps, setInstalledApps] = useState([]);
+    useEffect(() => {
+        setInstalledApps(loadInstalledList());
+    }, []);
+
     const { id } = useParams();
 
     const {apps, loading} = useApps();
@@ -18,6 +28,19 @@ const AppDetailsPage = () => {
     if(loading) return <p>Loading...</p>
 
     const {image, title, companyName, description, size, reviews, ratingAvg, downloads} = app;
+
+
+     
+
+    
+
+    const isInstalled = installedApps.some(item => item.id === app.id);
+
+    const handleInstall = () => {
+        updateList(app);
+        setInstalledApps(loadInstalledList()); // sync after install
+    };
+
     return (
         <div className="card bg-base-100 shadow-sm p-5">
 
@@ -57,7 +80,26 @@ const AppDetailsPage = () => {
                 </div>
 
                 <div className='mt-5 ml-5'>
-                    <Link to="/installed"><button onClick={() => updateList(app)} className="btn bg-green-400 text-white">Install Now<span>({size} MB)</span></button></Link>
+                    {isInstalled ? (
+  <div className="inline-block cursor-not-allowed">
+    <button
+      disabled
+      className="btn bg-gray-400 text-white opacity-60"
+    >
+      Installed
+    </button>
+  </div>
+) : (
+  <Link to="/installed">
+    <button
+      onClick={handleInstall}
+      className="btn bg-green-400 text-white hover:bg-green-500"
+    >
+      Install Now ({size} MB)
+    </button>
+  </Link>
+)}
+
                 </div>
             </div>
             </div>

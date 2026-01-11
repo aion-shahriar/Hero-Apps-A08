@@ -16,8 +16,10 @@ const HomePage = () => {
             <div>
                 <Banner></Banner>
             </div>
-            <div className='my-10'>
-                <h1 className='text-3xl font-semibold text-center'>Trending Apps</h1>
+            
+            <div className='max-w-[1440px] mx-auto'>
+                <div className='py-10'>
+                <h1 className='text-3xl font-semibold text-center pt-10'>Trending Apps</h1>
                 <p className='text-center mt-4'>Explore All Trending Apps on the Market developed by us</p>
                 
             </div>
@@ -29,6 +31,7 @@ const HomePage = () => {
             }
             <div className='text-center my-8'>
                 <Link className='btn bg text-white' to = '/allapps'>Show All</Link>
+            </div>
             </div>
         </div>
     );

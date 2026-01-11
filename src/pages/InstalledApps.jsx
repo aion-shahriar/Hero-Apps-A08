@@ -4,6 +4,9 @@ import { loadInstalledList, removeFromInstalledList } from '../utils/localStorag
 import { FaDownload } from 'react-icons/fa';
 
 import ratingImg from '../assets/icon-ratings.png'
+import { toast } from 'react-toastify';
+
+
 
 
 
@@ -18,7 +21,7 @@ const InstalledApps = () => {
 
 
     if(!InstalledList.length) {
-        return <p>No Data Available.</p>
+        return <> <div><p className='text-center font-bold text-3xl mt-24'>No App is currently installed.</p></div></>
     }
 
     const sortedItem = (()=> {
@@ -40,6 +43,7 @@ const InstalledApps = () => {
     const handleRemove = (id) => {
         removeFromInstalledList(id);
         setInstalledlist(prev => prev.filter(p=> p.id !== id));
+        toast.success("App Uninstalled successfully!")
 
     }
 
@@ -54,8 +58,8 @@ const InstalledApps = () => {
 
     
     return (
-        <div className='space-y-6'>
-            <h1 className='font-bold text-4xl text-center'>Your Installed Apps</h1>
+        <div className='space-y-6 max-w-[1440px] mx-auto'>
+            <h1 className='font-bold text-4xl text-center mt-10'>Your Installed Apps</h1>
             <p className='text-center'>Explore All Trending Apps on the Market developed by us</p>
             <div className='flex justify-between py-5 items-center'>
                 <h1 className='text-2xl font-semibold'> <span>{InstalledList.length}</span> Apps Found</h1>
@@ -70,7 +74,7 @@ const InstalledApps = () => {
                 </label>
             </div>
 
-            <div className='space-y-3'>
+            <div className='space-y-3 pb-10'>
                 {
                     sortedItem.map(p => (
                         <div key = {p.id} className='card card-side bg-base-100 shadow'>

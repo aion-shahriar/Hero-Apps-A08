@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className="footer footer-horizontal footer-center bg-black/80 text-base-content rounded p-10">
   
   <nav>
-    <div className="flex justify-around items-center gap-32 text-white">
+    <div className="flex justify-between items-center  text-white md:gap-[1200px] gap-14">
       <div className='flex'>
                           <img src={logoImg} alt="logo-img" className='w-10'/>
                       <a className="btn btn-ghost text-xl">Hero.IO</a>
@@ -47,6 +47,7 @@ const Footer = () => {
         </svg>
       </a>
       </div>
+
     </div>
   </nav>
   <aside>

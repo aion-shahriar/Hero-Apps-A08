@@ -3,6 +3,8 @@ import useApps from '../hooks/useApps';
 import AppCard from '../components/AppCard';
 import SkeletonLoader from '../components/SkeletonLoader';
 
+import appErrorImg from '../assets/App-Error.png'
+
 const AllAppsPage = () => {
     const { loading, apps } = useApps();
     const [search, setSearch] = useState('');
@@ -19,8 +21,10 @@ const AllAppsPage = () => {
     apps || []
 
     
+
+    
     return (
-        <div>
+        <div className='max-w-[1440px] mx-auto my-10'>
             <div className='flex justify-between py-5 items-center'>
                 <h1 className='text-3xl font-semibold'>All Apps <span>({searchedApps.length})</span></h1>
                 <label className="input">
@@ -42,7 +46,11 @@ const AllAppsPage = () => {
             
             {loading? <SkeletonLoader count={17}></SkeletonLoader> : 
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
-                {searchedApps.map(app => <AppCard key={app.id} app={app}></AppCard>)}
+                {searchedApps.length? searchedApps.map(app => <AppCard key={app.id} app={app}></AppCard>) :  <img src={appErrorImg} alt="" className=''/>}
+                
+                
+                    
+                
             </div>
             }
         </div>

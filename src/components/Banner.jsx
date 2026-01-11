@@ -16,7 +16,7 @@ import AppStoreImg from '../assets/app-store.png'
 const Banner = () => {
     return (
         <>
-        <div className='flex flex-col justify-center items-center gap-5'>
+        <div className='flex flex-col justify-center items-center gap-5 mt-10'>
             <h2 className='text-5xl font-bold text-center'>We Build <br /> <span className='text-primary'>Productive</span> Apps</h2>
             <p className='text-center'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.<br></br>
 Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
@@ -42,8 +42,8 @@ Our goal is to turn your ideas into digital experiences that truly make an impac
         </div>
         </div>
         <div className='bg pt-10'>
-            <h2 className='text-center text-3xl font-semibold text-white'>Trusted By Millions, Built For You</h2>
-            <div className='flex justify-center gap-32 py-10'>
+            <h2 className='text-center text-xl md:text-3xl font-semibold text-white'>Trusted By Millions, Built For You</h2>
+            <div className='flex justify-center gap-32 py-10 flex-col md:flex-row items-center'>
                 <div>
                 <p className='text-white'>Total Downloads</p>
                 <p className='text-white text-6xl font-bold'>29.6M</p>

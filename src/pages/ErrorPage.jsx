@@ -1,7 +1,7 @@
 import React from 'react';
 // import { useRouteError } from 'react-router';
 
-import errorImg from '../assets/error-404.png'
+import errorImg from '/assets/error-404.png'
 import { useNavigate } from 'react-router';
 
 

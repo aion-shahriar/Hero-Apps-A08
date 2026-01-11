@@ -3,7 +3,7 @@ import { loadInstalledList, removeFromInstalledList } from '../utils/localStorag
 
 import { FaDownload } from 'react-icons/fa';
 
-import ratingImg from '../assets/icon-ratings.png'
+import ratingImg from '/assets/icon-ratings.png'
 import { toast } from 'react-toastify';
 
 
@@ -79,9 +79,11 @@ const InstalledApps = () => {
             <div className='space-y-3 pb-10'>
                 {
                     sortedItem.map(p => (
+                        
                         <div key = {p.id} className='card card-side bg-base-100 shadow'>
                             <figure className='m-4'>
-                                <img src={p.image} alt="" className='h-22 w-30 rounded-2xl'/>
+                                
+                                <img src={p.image} alt="iiimg" className='h-22 w-30 rounded-2xl'/>
                             </figure>
 
                             <div className='card-body flex flex-col gap-3'>

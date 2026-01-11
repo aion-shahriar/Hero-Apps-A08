@@ -3,9 +3,9 @@ import { Link, useParams } from 'react-router';
 import useApps from '../hooks/useApps';
 import { loadInstalledList, updateList } from '../utils/localStorage';
 
-import ratingImg from '../assets/icon-ratings.png'
+import ratingImg from '/assets/icon-ratings.png'
 import { FaDownload } from 'react-icons/fa';
-import likeImg from '../assets/icon-review.png'
+import likeImg from '/assets/icon-review.png'
 import { toast } from 'react-toastify';
 import RatingsChart from '../components/RatingsChart';
 
@@ -45,7 +45,7 @@ const AppDetailsPage = () => {
     };
 
     return (
-        <div className="card bg-base-100 shadow-sm p-20">
+        <div className="card bg-base-100 shadow-sm p-10">
 
             <div className='mt-10 flex gap-14'>
                 <div className=''>

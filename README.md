@@ -1,16 +1,45 @@
-# React + Vite
+# Hero Apps A08
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive web application showcasing mobile apps with detailed information, ratings, and user installation management.
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hero Apps is a feature-rich application platform that allows users to:
+- Browse all available apps with search functionality
+- View detailed app information including ratings, downloads, and size
+- Install/uninstall apps with persistent storage
+- Sort installed apps by size
+- View rating distributions via interactive charts
+- Responsive design for all device sizes
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend Framework:** React 19
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS 4 + DaisyUI
+- **Routing:** React Router 7
+- **UI Components:** 
+  - React Icons (for icon library)
+  - Lucide React (for additional icons)
+  - Recharts (for rating charts)
+- **Notifications:** React Toastify
+- **HTTP Client:** Axios
+- **State Management:** React Hooks (useState)
+- **Development:** ESLint, Tailwind Vite plugin
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📱 Browse and search apps
+- ⭐ View detailed ratings and charts
+- 💾 Install/uninstall apps with localStorage persistence
+- 🔍 Sort and filter functionality
+- 📊 Interactive rating distribution charts
+- 📱 Fully responsive design
+- 🎨 Modern UI with Tailwind CSS and DaisyUI
+
+
+## Live Site
+
+
+
+

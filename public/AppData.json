@@ -1,7 +1,7 @@
 
 [
   {
-    "image": "../src/assets/demo-app (1).webp",
+    "image": "/assets/demo-app-1.webp",
     "title": "ChatEase AI",
     "companyName": "OpenVerse Labs",
     "id": 1,
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (2).webp",
+    "image": "/assets/demo-app-2.webp",
     "title": "SnapMix",
     "companyName": "CreativePixel",
     "id": 2,
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (3).webp",
+    "image": "/assets/demo-app-3.webp",
     "title": "TaskBuddy",
     "companyName": "FlowSync",
     "id": 3,
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (4).webp",
+    "image": "/assets/demo-app-4.webp",
     "title": "FitZone",
     "companyName": "HealthCore",
     "id": 4,
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (1).webp",
+    "image": "/assets/demo-app-5.webp",
     "title": "NoteNest",
     "companyName": "CloudSync Ltd.",
     "id": 5,
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (2).webp",
+    "image": "/assets/demo-app-6.webp",
     "title": "EduMate",
     "companyName": "SmartLearn",
     "id": 6,
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (3).webp",
+    "image": "/assets/demo-app-3.webp",
     "title": "Budgetify",
     "companyName": "FinTrack Systems",
     "id": 7,
@@ -127,7 +127,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (4).webp",
+    "image": "/assets/demo-app-6.webp",
     "title": "SoundSphere",
     "companyName": "AudioNova",
     "id": 8,
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (3).webp",
+    "image": "/assets/demo-app-1.webp",
     "title": "Travelio",
     "companyName": "WanderWorld",
     "id": 9,
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (1).webp",
+    "image": "/assets/demo-app-5.webp",
     "title": "MindEase",
     "companyName": "WellBeing Studio",
     "id": 10,
@@ -181,7 +181,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (2).webp",
+    "image": "/assets/demo-app-4.webp",
     "title": "CodeCraft",
     "companyName": "DevForge",
     "id": 11,
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (3).webp",
+    "image": "/assets/demo-app-2.webp",
     "title": "ShopSmart",
     "companyName": "RetailNext",
     "id": 12,
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (4).webp",
+    "image": "/assets/demo-app-6.webp",
     "title": "LangLoop",
     "companyName": "LingoTech",
     "id": 13,
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (1).webp",
+    "image": "/assets/demo-app-1.webp",
     "title": "HomeHub",
     "companyName": "SmartLiving",
     "id": 14,
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (2).webp",
+    "image": "/assets/demo-app-5.webp",
     "title": "Eventify",
     "companyName": "EventCore",
     "id": 15,
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (3).webp",
+    "image": "/assets/demo-app-2.webp",
     "title": "DriveSafe",
     "companyName": "AutoGuard",
     "id": 16,
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "image": "../src/assets/demo-app (4).webp",
+    "image": "/assets/demo-app-4.webp",
     "title": "RecipeBox",
     "companyName": "KitchenLabs",
     "id": 17,

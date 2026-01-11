@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 
-import ratingImg from '../assets/icon-ratings.png'
+import ratingImg from '/assets/icon-ratings.png'
 import { FaDownload } from 'react-icons/fa';
 
 const AppCard = ({app}) => {

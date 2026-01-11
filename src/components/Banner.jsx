@@ -4,14 +4,14 @@ import React from 'react';
 // import l2 from '../assets/Ellipse 25.png'
 // import l3 from '../assets/Ellipse 26.png'
 
-import main from '../assets/hero.png'
+import main from '/assets/hero.png'
 
 // import r1 from '../assets/Ellipse 27.png'
 // import r2 from '../assets/Ellipse 28.png'
 // import r3 from '../assets/Ellipse 29.png'
 
-import PlayStoreImg from '../assets/google-play.png'
-import AppStoreImg from '../assets/app-store.png'
+import PlayStoreImg from '/assets/google-play.png'
+import AppStoreImg from '/assets/app-store.png'
 
 const Banner = () => {
     return (

@@ -38,7 +38,7 @@ Hero Apps is a feature-rich application platform that allows users to:
 - 🎨 Modern UI with Tailwind CSS and DaisyUI
 
 
-## Live Site
+## [Live Site](https://statuesque-sherbet-a25579.netlify.app/)
 
 
 
